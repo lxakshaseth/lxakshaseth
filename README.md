@@ -77,7 +77,7 @@ Git, GitHub, VS Code, Postman
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/akshat0906  
 - Portfolio: https://github.com/lxakshaseth/lxakshaseth
-- Email: lxakshatseth
+- Email: lxakshatseth90@gmail.com
 
 ---
 
