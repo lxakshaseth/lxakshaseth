@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Akshat
 
-<!--
-**lxakshaseth/lxakshaseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+💻 Tech Stack: MERN (MongoDB, Express, React, Node.js)  
+📚 Currently learning AI & System Design  
 
-Here are some ideas to get you started:
+## 🔥 Projects
+- Smart AI Civic Intelligence Platform
+- Golf Platform Refactored
+- AI Tutor App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Generative AI
+- Advanced Backend Systems
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/your-link
+- Portfolio: https://your-portfolio.com
