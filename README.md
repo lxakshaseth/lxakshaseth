@@ -1,62 +1,85 @@
-<h1 align="center">Hi 👋, I'm Akshat Seth</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | AI Enthusiast</h3>
+<h1 align="center">Akshat Seth</h1>
+<p align="center">
+  Full Stack Developer (MERN) • AI Enthusiast • Building Scalable Web Applications
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lxakshaseth&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href=www.linkedin.com/in/akshat0906>LinkedIn</a> •
+  <a href="https://github.com/lxakshaseth/lxakshaseth">Portfolio</a> •
+  <a href="mlxakshatseth90@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
-- 💻 Full Stack Developer (MERN Stack)
-- 🚀 Building real-world scalable applications
-- 🤖 Exploring Generative AI & AI-powered platforms
-- 📚 Always learning & improving
+## 👨‍💻 About Me
+I am a Full Stack Developer specializing in the MERN stack, with hands-on experience building scalable web applications and AI-powered platforms. I enjoy solving real-world problems through clean and efficient code.
+
+- 💻 Strong in JavaScript, React, Node.js, and MongoDB  
+- 🚀 Experience building production-ready full-stack applications  
+- 🤖 Exploring Generative AI and intelligent systems  
+- 📈 Focused on performance, scalability, and clean architecture  
 
 ---
 
-## 🔥 Projects
-- 🧠 **Smart AI Civic Intelligence Platform**
-- ⛳ **Golf Platform Refactored**
-- 🤖 **AI Tutor App**
-- 🔐 **Full Stack Auth System (JWT + MongoDB)**
+## 🛠️ Technical Skills
+
+**Languages:**  
+JavaScript, HTML, CSS  
+
+**Frontend:**  
+React.js, Next.js  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB , Postresql
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, Postman  
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,vscode" />
-</p>
+## 🚀 Projects
+
+### 🔹 Smart AI Civic Intelligence Platform
+- Built an AI-powered platform for civic issue tracking and analysis  
+- Integrated intelligent data processing and automation  
+
+### 🔹 Golf Platform Refactored
+- Improved UI/UX and optimized backend performance  
+- Refactored codebase for scalability and maintainability  
+
+### 🔹 AI Tutor Application
+- Developed an AI-based learning assistant  
+- Implemented interactive and personalized responses  
+
+### 🔹 Full Stack Authentication System
+- Secure authentication using JWT  
+- Implemented login, signup, and protected routes  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lxakshaseth&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxakshaseth&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?lxakshaseth=lxakshaseth&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lxakshaseth&show_icons=true&hide_border=true" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
-- Generative AI  
 - System Design  
-- Advanced Backend  
+- Advanced Backend Architecture  
+- Generative AI  
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/akshat0906
-- 🌐 Portfolio: https://github.com/lxakshaseth/lxakshaseth
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/akshat0906  
+- Portfolio: https://github.com/lxakshaseth/lxakshaseth
+- Email: lxakshatseth
 
 ---
 
-## ⚡ Fun Fact
-> I turn ideas into real-world applications 🚀
+## ⚡ Statement
+Focused on building impactful products and continuously improving as a developer.
