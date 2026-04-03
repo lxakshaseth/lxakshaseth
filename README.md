@@ -1,4 +1,4 @@
-<h1 align="center">Akshat Seth</h1>
+<h1 align="center">Akshat</h1>
 <p align="center">
   Full Stack Developer (MERN) • AI Enthusiast • Building Scalable Web Applications
 </p>
