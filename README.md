@@ -2,10 +2,12 @@
 
   <!-- Animated Header Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6366F1&center=true&vcenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Akshat!;Full+Stack+%26+AI+Software+Engineer;Backend+Systems+%26+REST+API+Architect;Building+Scalable+MERN+%2B+GenAI+Apps" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6366F1&center=true&vcenter=true&width=680&lines=Hi+%F0%9F%90%8B%2C+I'm+Akshat!;Backend+%26+Full+Stack+Software+Engineer;Building+Scalable+REST+APIs+%2B+AI+Systems;Open+to+SDE+Internship+%26+Full-Time+Roles!%F0%9F%9A%80" alt="Typing SVG Banner" />
   </a>
 
   <br/>
+
+  <h3>🟢 Open to Software Engineering Roles (SDE Intern / Full Stack / Backend)</h3>
 
   <p align="center">
     <b>Backend-Focused Software Engineer</b> | <b>Full Stack Developer</b> | <b>AI Integration Specialist</b>
@@ -25,24 +27,63 @@
 
 ---
 
-### 🌟 About Me
+### ⚡ Recruiter TL;DR — Engineering Impact Highlights
 
-I am a passionate **Full Stack & AI Software Engineer** with strong experience in architecting scalable RESTful APIs, optimizing database performance, and integrating cutting-edge LLMs (OpenAI, Groq APIs). Focused on building resilient production systems following clean MVC architecture.
-
-- 🔭 **Currently Working On:** Building high-throughput backend services and context-aware AI agents.
-- 🎓 **Education:** B.E. in Computer Engineering @ NBN Sinhgad Technical Institute Campus (SPPU).
-- 💼 **Experience:** Delivered 6+ production web modules across two developer internships.
-- ⚡ **Core Strengths:** REST API Design, Database Query Optimization (indexing/aggregations), WebRTC Real-Time Streaming, JWT/RBAC Security.
-- ♟️ **Interests:** Backend Architecture, Open-Source Contribution, Competitive Chess.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Latency & Database Optimization</h4>
+      <ul>
+        <li>Reduced API response latency by <b>30%</b> in production MERN apps via compound indexing & schema refinement.</li>
+        <li>Architected relational PostgreSQL schemas with transactional integrity & query joins for concurrent user loads.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 Production AI & LLM Systems</h4>
+      <ul>
+        <li>Engineered <b>OCR evaluation engines</b> and LLM workflows leveraging Groq & OpenAI APIs for automated grading.</li>
+        <li>Implemented <b>Prompt Engineering</b> for context-aware, reliable AI response generation.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Robust Security & API Design</h4>
+      <ul>
+        <li>Exposed <b>35+ RESTful APIs</b> implementing JWT authentication, Role-Based Access Control (RBAC), and MVC patterns.</li>
+        <li>Applied input validation, CORS policies, and environment isolation across production backend services.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📡 Real-Time Media & Communication</h4>
+      <ul>
+        <li>Integrated low-latency <b>WebRTC audio/video calling</b> (WhatsApp-style) and real-time Socket.IO chat servers.</li>
+        <li>Built responsive Next.js & React dashboards optimizing UI performance and data flow.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ Tech Stack & Skills
+### 🌟 About Me
+
+I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, MongoDB, PostgreSQL, and LLM integrations. I thrive on solving complex backend performance bottlenecks, building secure RESTful microservices, and crafting intelligent AI-driven applications.
+
+- 🔭 **Target Roles:** Backend Engineer, Full Stack Engineer, Node.js / MERN Developer, AI Software Engineer.
+- 🎓 **Education:** B.E. in Computer Engineering @ NBN Sinhgad Technical Institute Campus (SPPU).
+- 💼 **Experience:** Delivered 6+ production web modules across two software engineering internships.
+- 📜 **Oracle AI Certified:** Oracle Agentic AI Associate (2026) & OCI AI Foundations Associate (2025).
+- ♟️ **Passions:** Distributed Backend Architecture, Open-Source Development, Competitive Chess.
+
+---
+
+### ⚙️ Tech Stack & Core Competencies
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>🧠 Backend & Core Engineering</h4>
+      <h4>🧠 Backend & Architecture</h4>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -71,7 +112,7 @@ I am a passionate **Full Stack & AI Software Engineer** with strong experience i
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>🎨 Frontend & Web Technologies</h4>
+      <h4>🎨 Frontend Technologies</h4>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -116,6 +157,15 @@ I am a passionate **Full Stack & AI Software Engineer** with strong experience i
 
 ---
 
+### 🏛️ Engineering & Code Standards
+
+- 🧱 **Clean Architecture:** Strict separation of concerns following **MVC pattern** and modular directory structuring.
+- ⚡ **Performance First:** Database indexing, payload optimization, caching with Redis, and async flow control.
+- 🔒 **Security Standards:** JWT authentication, Role-Based Authorization (RBAC), environment variable hygiene, CORS configuration.
+- 📑 **API Documentation:** Consistent API response structures, standard HTTP status codes, and thorough Postman testing.
+
+---
+
 ### 💼 Professional Experience
 
 ```gcode
@@ -132,7 +182,7 @@ I am a passionate **Full Stack & AI Software Engineer** with strong experience i
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
 <table>
   <tr>
@@ -149,13 +199,13 @@ I am a passionate **Full Stack & AI Software Engineer** with strong experience i
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       </p>
       <ul>
-        <li>Designed and deployed <b>20+ RESTful APIs</b> covering auth, quiz modules, and user performance analytics.</li>
-        <li>Architected an <b>OCR-powered evaluation engine</b> integrating OpenAI & Groq APIs for automated grading.</li>
-        <li>Implemented <b>WebRTC audio/video calls</b> and real-time Socket.IO chat for collaborative study sessions.</li>
+        <li>Designed and exposed <b>20+ RESTful APIs</b> covering authentication, quiz modules, and user performance analytics.</li>
+        <li>Architected an <b>OCR-powered evaluation engine</b> integrating OpenAI & Groq APIs for automated answer grading.</li>
+        <li>Implemented <b>WebRTC video/audio calling</b> and real-time Socket.IO chat for collaborative study sessions.</li>
         <li>Built with modular <b>MVC architecture</b>, JWT security, and RBAC authorization.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/lxakshaseth">🔗 <b>Explore Project</b></a>
+        <a href="https://github.com/lxakshaseth">🔗 <b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -173,10 +223,10 @@ I am a passionate **Full Stack & AI Software Engineer** with strong experience i
         <li>Developed an AI platform streamlining issue reporting, citizen query resolution, and automated workflows.</li>
         <li>Designed relational PostgreSQL schemas with optimized query joins, indexing, and transactional integrity.</li>
         <li>Integrated Groq & OpenAI LLMs via <b>Prompt Engineering</b> for dynamic context-aware assistant responses.</li>
-        <li>Optimized backend DB queries, minimizing API latency under concurrent load.</li>
+        <li>Optimized backend DB queries, minimizing API latency under concurrent user load.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/lxakshaseth">🔗 <b>Explore Project</b></a>
+        <a href="https://github.com/lxakshaseth">🔗 <b>Explore Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -191,7 +241,7 @@ I am a passionate **Full Stack & AI Software Engineer** with strong experience i
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lxakshaseth&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Akshat's GitHub Stats" height="175"/>
@@ -206,11 +256,11 @@ I am a passionate **Full Stack & AI Software Engineer** with strong experience i
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Get In Touch
 
 <div align="center">
 
-  <p>I am actively seeking Software Engineering / Backend / Full-Stack opportunities. Let's connect!</p>
+  <p>I am actively seeking <b>Full-Time / SDE Intern / Backend Software Engineering</b> opportunities.</p>
 
   <a href="https://linkedin.com/in/akshat0906">
     <img src="https://img.shields.io/badge/LinkedIn-akshat0906-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
