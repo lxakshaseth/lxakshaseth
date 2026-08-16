@@ -2,15 +2,15 @@
 
   <!-- Animated Header Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6366F1&center=true&vcenter=true&width=680&lines=Hi+%F0%9F%90%8B%2C+I'm+Akshat!;Backend+%26+Full+Stack+Software+Engineer;Building+Scalable+REST+APIs+%2B+AI+Systems;Open+to+SDE+Internship+%26+Full-Time+Roles!%F0%9F%9A%80" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vcenter=true&width=720&lines=Hi+%F0%9F%90%8B%2C+I'm+Akshat!;Backend+%26+Full+Stack+Software+Engineer;Building+Scalable+Microservices+%2B+AI+RAG+Systems;Open+to+SDE+Internship+%26+Full-Time+Roles!%F0%9F%9A%80" alt="Typing SVG Banner" />
   </a>
 
   <br/>
 
-  <h3>🟢 Open to Software Engineering Roles (SDE Intern / Full Stack / Backend)</h3>
+  <h3>🟢 Open to Software Engineering Roles (SDE Intern / Backend / Full Stack / AI)</h3>
 
   <p align="center">
-    <b>Backend-Focused Software Engineer</b> | <b>Full Stack Developer</b> | <b>AI Integration Specialist</b>
+    <b>Backend & Microservices Specialist</b> | <b>Full Stack Engineer</b> | <b>AI Systems & RAG Developer</b>
   </p>
 
   <p align="center">
@@ -19,7 +19,8 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/akshat0906"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:akshatgupta.nbnstic.comp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:lxakshatseth90@gmail.com"><img src="https://img.shields.io/badge/Primary_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email" /></a>
+    <a href="mailto:akshatgupta.nbnstic.comp@gmail.com"><img src="https://img.shields.io/badge/Academic_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic Email" /></a>
     <a href="https://github.com/lxakshaseth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
@@ -27,38 +28,38 @@
 
 ---
 
-### ⚡ Recruiter TL;DR — Engineering Impact Highlights
+### ⚡ Recruiter TL;DR — Technical Impact Highlights
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ Latency & Database Optimization</h4>
       <ul>
-        <li>Reduced API response latency by <b>30%</b> in production MERN apps via compound indexing & schema refinement.</li>
-        <li>Architected relational PostgreSQL schemas with transactional integrity & query joins for concurrent user loads.</li>
+        <li>Reduced API response latency by <b>30%</b> in production MERN apps via compound indexing, query joins, and schema refinement.</li>
+        <li>Architected relational PostgreSQL & MongoDB schemas with transactional integrity for high concurrent workloads.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Production AI & LLM Systems</h4>
+      <h4>🤖 Enterprise AI & Hybrid RAG Systems</h4>
       <ul>
-        <li>Engineered <b>OCR evaluation engines</b> and LLM workflows leveraging Groq & OpenAI APIs for automated grading.</li>
-        <li>Implemented <b>Prompt Engineering</b> for context-aware, reliable AI response generation.</li>
+        <li>Built <b>DocBrain AI</b>: Hybrid RAG pipeline (LangGraph StateGraph + ChromaDB + BM25 + Reciprocal Rank Fusion) eliminating hallucinations.</li>
+        <li>Engineered <b>OCR evaluation engines</b> and context-aware LLM workflows using Groq, OpenAI APIs, and AWS Bedrock.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ Robust Security & API Design</h4>
+      <h4>🛡️ Robust Security & Microservices</h4>
       <ul>
-        <li>Exposed <b>35+ RESTful APIs</b> implementing JWT authentication, Role-Based Access Control (RBAC), and MVC patterns.</li>
-        <li>Applied input validation, CORS policies, and environment isolation across production backend services.</li>
+        <li>Exposed <b>35+ RESTful APIs</b> implementing Clean Architecture, Repository Pattern, JWT, RBAC, and Zod input validation.</li>
+        <li>Built event-driven microservices decoupled via <b>Redis Pub/Sub</b> for asynchronous document ingestion & AI streaming.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📡 Real-Time Media & Communication</h4>
+      <h4>📡 Real-Time & Cloud DevOps</h4>
       <ul>
-        <li>Integrated low-latency <b>WebRTC audio/video calling</b> (WhatsApp-style) and real-time Socket.IO chat servers.</li>
-        <li>Built responsive Next.js & React dashboards optimizing UI performance and data flow.</li>
+        <li>Integrated low-latency <b>WebRTC video/audio calling</b> and real-time Socket.IO chat servers for collaborative platforms.</li>
+        <li>Hands-on DevOps experience deploying containers via <b>AWS (S3, Lambda), Docker, Docker Compose, Render, Vercel</b>.</li>
       </ul>
     </td>
   </tr>
@@ -68,13 +69,13 @@
 
 ### 🌟 About Me
 
-I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, MongoDB, PostgreSQL, and LLM integrations. I thrive on solving complex backend performance bottlenecks, building secure RESTful microservices, and crafting intelligent AI-driven applications.
+I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, Express.js, Python FastAPI, PostgreSQL, MongoDB, AWS, and LLM/RAG integrations. I thrive on architecting event-driven microservices, optimizing database performance, and building intelligent AI applications that deliver real impact.
 
-- 🔭 **Target Roles:** Backend Engineer, Full Stack Engineer, Node.js / MERN Developer, AI Software Engineer.
-- 🎓 **Education:** B.E. in Computer Engineering @ NBN Sinhgad Technical Institute Campus (SPPU).
-- 💼 **Experience:** Delivered 6+ production web modules across two software engineering internships.
-- 📜 **Oracle AI Certified:** Oracle Agentic AI Associate (2026) & OCI AI Foundations Associate (2025).
-- ♟️ **Passions:** Distributed Backend Architecture, Open-Source Development, Competitive Chess.
+- 🔭 **Target Roles:** SDE Intern, Backend Engineer, Full Stack Engineer, Node.js / MERN Developer, AI Software Engineer.
+- 🎓 **Education:** B.E. in Computer Engineering @ NBN Sinhgad Technical Institute Campus (SPPU) | *Expected 2027* | **CGPA: 8.25/10**.
+- 💼 **Experience:** 2 Software Engineering Internships — Delivered 6+ production modules and reduced API latency by 30%.
+- 📜 **Certified Credentials:** Oracle Agentic AI Associate (2026), Oracle OCI AI Associate (2025), AWS Educate Cloud 101.
+- ♟️ **Interests:** Distributed Microservices Architecture, RAG Pipeline Design, Open-Source, Competitive Chess.
 
 ---
 
@@ -87,21 +88,26 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Microservices-2B6CB0?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Clean_Architecture-4A5568?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
         <img src="https://img.shields.io/badge/RBAC-4A5568?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/MVC_Architecture-2B6CB0?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Nodemailer-007ACC?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Zod_Validation-3E67B1?style=for-the-badge"/>
       </p>
     </td>
     <td valign="top" width="50%">
-      <h4>🤖 AI & Data Science</h4>
+      <h4>🤖 AI, ML & RAG Systems</h4>
       <p>
         <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Hybrid_RAG-412991?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Groq_API-F05032?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Prompt_Engineering-00A4EF?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/OCR_Engine-2E7D32?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -115,11 +121,12 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
       <h4>🎨 Frontend Technologies</h4>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Redux_/_Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       </p>
@@ -128,12 +135,14 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
       <h4>🛢️ Databases, Cloud & DevOps</h4>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_(S3/Lambda)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
@@ -157,12 +166,12 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
 
 ---
 
-### 🏛️ Engineering & Code Standards
+### 🏛️ Engineering & Architectural Standards
 
-- 🧱 **Clean Architecture:** Strict separation of concerns following **MVC pattern** and modular directory structuring.
-- ⚡ **Performance First:** Database indexing, payload optimization, caching with Redis, and async flow control.
-- 🔒 **Security Standards:** JWT authentication, Role-Based Authorization (RBAC), environment variable hygiene, CORS configuration.
-- 📑 **API Documentation:** Consistent API response structures, standard HTTP status codes, and thorough Postman testing.
+- 🧱 **Clean Architecture & Design Patterns:** Strict separation of concerns following **MVC & Repository Patterns**, modular structure, and reusable domain models.
+- ⚡ **Performance Optimization:** Compound database indexing, payload minification, Redis caching, async flow control, and optimized relational joins.
+- 🔒 **Security Best Practices:** JWT authentication, Role-Based Access Control (RBAC), Zod validation, environment variable isolation, and strict CORS rules.
+- 📑 **Production API Standards:** Standard HTTP status codes, consistent RESTful JSON schema responses, and comprehensive Postman test suites.
 
 ---
 
@@ -171,13 +180,13 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
 ```gcode
 🏢 Indux Technology — Full Stack Developer Intern
 📅 Feb 2026 – Aug 2026 | 📍 Remote
-• Built 3+ responsive full-stack modules using React.js & JavaScript, boosting UI performance and user engagement.
-• Integrated 10+ frontend-backend APIs using React & Node.js, reducing data handling latency and improving responsiveness.
+• Built 3+ responsive full-stack web modules using React.js & JavaScript, boosting UI performance and user engagement.
+• Integrated 10+ frontend-backend REST APIs using React & Node.js, improving data flow efficiency and overall application responsiveness.
 
 🏢 Uptoskill — Full Stack Web Development Intern
 📅 Oct 2025 – Apr 2026 | 📍 Remote
-• Delivered 3+ production MERN stack applications with secure authentication, REST endpoints, and MongoDB.
-• Reduced API latency by 30% through efficient MongoDB schema refinement and compound index optimizations.
+• Developed & deployed 3+ production MERN stack applications featuring secure authentication, REST endpoints, and MongoDB.
+• Reduced API response latency by 30% through strategic MongoDB compound indexing and schema refinement.
 ```
 
 ---
@@ -186,10 +195,32 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 DocBrain AI</h3>
+      <p align="center">
+        <b>Microservices & Hybrid RAG Platform</b>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Engineered an enterprise microservices platform with an event-driven architecture decoupled via <b>Redis Pub/Sub</b> for async document processing and AI streaming.</li>
+        <li>Built a hybrid RAG pipeline (<b>LangGraph StateGraph + ChromaDB dense embeddings + BM25 sparse search + Reciprocal Rank Fusion</b>) reducing LLM hallucinations.</li>
+        <li>Implemented Node.js services using <b>Clean Architecture & Repository Pattern</b> with JWT auth & Zod validation; deployed via Docker Compose, Render & Vercel.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/lxakshaseth">🔗 <b>Explore Repository »</b></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">🎓 Smart AI LMS</h3>
       <p align="center">
-        <b>Real-Time Collaborative Learning & AI Evaluation Platform</b>
+        <b>Real-Time Collaborative LMS & AI Evaluator</b>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -199,19 +230,18 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       </p>
       <ul>
-        <li>Designed and exposed <b>20+ RESTful APIs</b> covering authentication, quiz modules, and user performance analytics.</li>
-        <li>Architected an <b>OCR-powered evaluation engine</b> integrating OpenAI & Groq APIs for automated answer grading.</li>
-        <li>Implemented <b>WebRTC video/audio calling</b> and real-time Socket.IO chat for collaborative study sessions.</li>
-        <li>Built with modular <b>MVC architecture</b>, JWT security, and RBAC authorization.</li>
+        <li>Exposed <b>20+ RESTful APIs</b> covering authentication, quiz management, student progress tracking, and analytics.</li>
+        <li>Architected an <b>OCR-powered evaluation engine</b> integrating OpenAI & Groq APIs to automate answer grading and detailed feedback.</li>
+        <li>Implemented real-time chat and low-latency <b>WebRTC video/audio calling</b> on a scalable MVC backend with JWT & RBAC.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/lxakshaseth">🔗 <b>Explore Repository »</b></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🏛️ Civic AI Platform</h3>
       <p align="center">
-        <b>AI-Powered Civic Engagement & Intelligent Workflow Automation</b>
+        <b>AI Civic Engagement & Workflow Automation</b>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -220,10 +250,9 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
         <img src="https://img.shields.io/badge/Groq_API-F05032?style=flat-square"/>
       </p>
       <ul>
-        <li>Developed an AI platform streamlining issue reporting, citizen query resolution, and automated workflows.</li>
+        <li>Developed an AI civic platform streamlining issue reporting, query resolution, and automated workflows.</li>
         <li>Designed relational PostgreSQL schemas with optimized query joins, indexing, and transactional integrity.</li>
-        <li>Integrated Groq & OpenAI LLMs via <b>Prompt Engineering</b> for dynamic context-aware assistant responses.</li>
-        <li>Optimized backend DB queries, minimizing API latency under concurrent user load.</li>
+        <li>Integrated Groq & OpenAI LLMs via <b>Prompt Engineering</b> for dynamic context-aware conversational responses under concurrent load.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/lxakshaseth">🔗 <b>Explore Repository »</b></a>
@@ -234,10 +263,11 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Credentials
 
-- 🎓 **Oracle Agentic AI Certified Foundations Associate** *(Oracle University — Jul 2026)*
-- 🎓 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** *(Oracle University — Jul 2025 | Credential ID: `102179368OCI25AICFA`)*
+- 🎓 **Oracle Agentic AI Certified Foundations Associate** *(Oracle University — 2026)*
+- 🎓 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** *(Oracle University — 2025 | Credential ID: `102179368OCI25AICFA`)*
+- ☁️ **AWS Educate Introduction to Cloud 101 — Training Badge** *(Amazon Web Services Training & Certification)*
 
 ---
 
@@ -256,18 +286,22 @@ I am a **Full Stack & AI Software Engineer** specializing in Node.js, Express, M
 
 ---
 
-### 🤝 Get In Touch
+### 🤝 Connect & Hire
 
 <div align="center">
 
-  <p>I am actively seeking <b>Full-Time / SDE Intern / Backend Software Engineering</b> opportunities.</p>
+  <p>I am actively seeking <b>SDE Intern / Backend / Full Stack / AI Software Engineering</b> opportunities.</p>
 
   <a href="https://linkedin.com/in/akshat0906">
     <img src="https://img.shields.io/badge/LinkedIn-akshat0906-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
+  <a href="mailto:lxakshatseth90@gmail.com">
+    <img src="https://img.shields.io/badge/Primary_Email-lxakshatseth90-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email"/>
+  </a>
+  &nbsp;
   <a href="mailto:akshatgupta.nbnstic.comp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akshatgupta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Academic_Email-akshatgupta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/lxakshaseth">
