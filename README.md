@@ -30,7 +30,7 @@
 
 ### ⚡ Recruiter TL;DR — Technical Impact Highlights
 
-<table width="100%">
+<table width="100%">F
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ Latency & Database Optimization</h4>
@@ -214,7 +214,7 @@ I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, E
         <li>Implemented Node.js services using <b>Clean Architecture & Repository Pattern</b> with JWT auth & Zod validation; deployed via Docker Compose, Render & Vercel.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/lxakshaseth">🔗 <b>Explore Repository »</b></a>
+        <a href="https://github.com/lxakshaseth/docbrain-ai">🔗 <b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -235,7 +235,7 @@ I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, E
         <li>Implemented real-time chat and low-latency <b>WebRTC video/audio calling</b> on a scalable MVC backend with JWT & RBAC.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/lxakshaseth">🔗 <b>Explore Repository »</b></a>
+        <a href="https://github.com/lxakshaseth/Smart-LMS">🔗 <b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -255,7 +255,7 @@ I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, E
         <li>Integrated Groq & OpenAI LLMs via <b>Prompt Engineering</b> for dynamic context-aware conversational responses under concurrent load.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/lxakshaseth">🔗 <b>Explore Repository »</b></a>
+        <a href="https://github.com/lxakshaseth/civic-ai-platform">🔗 <b>Explore Repository »</b></a>
       </p>
     </td>
   </tr>
