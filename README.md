@@ -17,6 +17,16 @@
     📍 Pune, Maharashtra, India &nbsp;|&nbsp; 🎓 B.E. Computer Engineering (2027) &nbsp;|&nbsp; 📊 CGPA: 8.25/10
   </p>
 
+  <!-- Impact Badges Row -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/GitHub_Contributions-599%2B_in_Last_Year-22c55e?style=flat-square&logo=github&logoColor=white" alt="599+ Contributions"/>
+    <img src="https://img.shields.io/badge/API_Latency_Cut-30%25_Optimization-6366f1?style=flat-square&logo=speedtest&logoColor=white" alt="30% Latency Optimization"/>
+    <img src="https://img.shields.io/badge/REST_APIs-35%2B_Exposed-0055DA?style=flat-square" alt="35+ REST APIs"/>
+    <img src="https://img.shields.io/badge/Production_Modules-6%2B_Delivered-38bdf8?style=flat-square" alt="6+ Production Modules"/>
+    <img src="https://img.shields.io/badge/Certifications-Oracle_%2B_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Certifications"/>
+  </p>
+
+  <!-- Direct Contact Buttons -->
   <p align="center">
     <a href="https://linkedin.com/in/akshat0906"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:lxakshatseth90@gmail.com"><img src="https://img.shields.io/badge/Primary_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email" /></a>
@@ -28,38 +38,38 @@
 
 ---
 
-### ⚡ Recruiter TL;DR — Technical Impact Highlights
+### ⚡ Recruiter TL;DR — Engineering Impact Summary
 
-<table width="100%">F
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ Latency & Database Optimization</h4>
       <ul>
-        <li>Reduced API response latency by <b>30%</b> in production MERN apps via compound indexing, query joins, and schema refinement.</li>
-        <li>Architected relational PostgreSQL & MongoDB schemas with transactional integrity for high concurrent workloads.</li>
+        <li>Reduced API response latency by <b>30%</b> in production MERN applications via compound B-Tree indexing, query join optimization, and schema refinement.</li>
+        <li>Architected relational PostgreSQL & MongoDB schemas with transactional integrity & aggregation pipelines under heavy concurrent workloads.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Enterprise AI & Hybrid RAG Systems</h4>
+      <h4>🤖 Production AI & Hybrid RAG Systems</h4>
       <ul>
-        <li>Built <b>DocBrain AI</b>: Hybrid RAG pipeline (LangGraph StateGraph + ChromaDB + BM25 + Reciprocal Rank Fusion) eliminating hallucinations.</li>
-        <li>Engineered <b>OCR evaluation engines</b> and context-aware LLM workflows using Groq, OpenAI APIs, and AWS Bedrock.</li>
+        <li>Built <b>DocBrain AI</b>: Hybrid RAG pipeline combining <b>LangGraph StateGraph + ChromaDB dense vectors + BM25 sparse search + Reciprocal Rank Fusion (RRF)</b> to eliminate hallucinations.</li>
+        <li>Engineered <b>OCR evaluation engines</b> and context-aware LLM workflows leveraging Groq, OpenAI APIs, and AWS Bedrock.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ Robust Security & Microservices</h4>
+      <h4>🛡️ Microservices & API Security</h4>
       <ul>
-        <li>Exposed <b>35+ RESTful APIs</b> implementing Clean Architecture, Repository Pattern, JWT, RBAC, and Zod input validation.</li>
-        <li>Built event-driven microservices decoupled via <b>Redis Pub/Sub</b> for asynchronous document ingestion & AI streaming.</li>
+        <li>Exposed <b>35+ RESTful APIs</b> implementing Clean Architecture, Repository Pattern, JWT authentication, RBAC, and Zod input validation.</li>
+        <li>Architected event-driven microservices decoupled via <b>Redis Pub/Sub</b> for asynchronous document ingestion & AI streaming.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📡 Real-Time & Cloud DevOps</h4>
+      <h4>📡 Real-Time Media & Cloud DevOps</h4>
       <ul>
-        <li>Integrated low-latency <b>WebRTC video/audio calling</b> and real-time Socket.IO chat servers for collaborative platforms.</li>
-        <li>Hands-on DevOps experience deploying containers via <b>AWS (S3, Lambda), Docker, Docker Compose, Render, Vercel</b>.</li>
+        <li>Integrated low-latency <b>WebRTC video/audio calling</b> (WhatsApp-style) and real-time Socket.IO chat servers for collaborative platforms.</li>
+        <li>Hands-on DevOps experience deploying dockerized microservices across <b>AWS (S3, Lambda), Docker Compose, Render, Vercel</b>.</li>
       </ul>
     </td>
   </tr>
@@ -69,13 +79,14 @@
 
 ### 🌟 About Me
 
-I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, Express.js, Python FastAPI, PostgreSQL, MongoDB, AWS, and LLM/RAG integrations. I thrive on architecting event-driven microservices, optimizing database performance, and building intelligent AI applications that deliver real impact.
+I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, Express.js, Python FastAPI, PostgreSQL, MongoDB, AWS, and LLM/RAG integrations. I thrive on solving complex backend performance bottlenecks, architecting event-driven microservices, and building intelligent AI applications with clean code.
 
-- 🔭 **Target Roles:** SDE Intern, Backend Engineer, Full Stack Engineer, Node.js / MERN Developer, AI Software Engineer.
+- 🔭 **Target Roles:** SDE Intern, Backend Engineer, Full Stack Developer, Node.js / MERN Engineer, AI Software Engineer.
 - 🎓 **Education:** B.E. in Computer Engineering @ NBN Sinhgad Technical Institute Campus (SPPU) | *Expected 2027* | **CGPA: 8.25/10**.
-- 💼 **Experience:** 2 Software Engineering Internships — Delivered 6+ production modules and reduced API latency by 30%.
+- 📊 **Activity:** **599+ GitHub contributions in the last year** across open-source and production projects.
+- 💼 **Experience:** 2 Software Engineering Internships — Delivered 6+ production web modules and cut API latency by 30%.
 - 📜 **Certified Credentials:** Oracle Agentic AI Associate (2026), Oracle OCI AI Associate (2025), AWS Educate Cloud 101.
-- ♟️ **Interests:** Distributed Microservices Architecture, RAG Pipeline Design, Open-Source, Competitive Chess.
+- ♟️ **Interests:** Distributed Microservices Architecture, Hybrid RAG Engineering, Competitive Chess.
 
 ---
 
@@ -168,10 +179,10 @@ I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, E
 
 ### 🏛️ Engineering & Architectural Standards
 
-- 🧱 **Clean Architecture & Design Patterns:** Strict separation of concerns following **MVC & Repository Patterns**, modular structure, and reusable domain models.
-- ⚡ **Performance Optimization:** Compound database indexing, payload minification, Redis caching, async flow control, and optimized relational joins.
-- 🔒 **Security Best Practices:** JWT authentication, Role-Based Access Control (RBAC), Zod validation, environment variable isolation, and strict CORS rules.
-- 📑 **Production API Standards:** Standard HTTP status codes, consistent RESTful JSON schema responses, and comprehensive Postman test suites.
+- 🧱 **Clean Architecture & Design Patterns:** Strict separation of concerns following **MVC & Repository Patterns**, modular directory structuring, and decoupled domain logic.
+- ⚡ **Performance First:** Compound database B-Tree indexing, payload minification, Redis caching, async flow control, and join-optimized queries.
+- 🔒 **Security Best Practices:** JWT authentication, Role-Based Access Control (RBAC), Zod schema validation, environment variable isolation, and strict CORS policies.
+- 📑 **Production API Standards:** Standardized HTTP status codes, consistent REST JSON envelope responses, and Postman API test suites.
 
 ---
 
@@ -209,8 +220,8 @@ I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, E
         <img src="https://img.shields.io/badge/Redis_Pub/Sub-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       </p>
       <ul>
-        <li>Engineered an enterprise microservices platform with an event-driven architecture decoupled via <b>Redis Pub/Sub</b> for async document processing and AI streaming.</li>
-        <li>Built a hybrid RAG pipeline (<b>LangGraph StateGraph + ChromaDB dense embeddings + BM25 sparse search + Reciprocal Rank Fusion</b>) reducing LLM hallucinations.</li>
+        <li>Engineered an enterprise microservices platform with an event-driven architecture decoupled via <b>Redis Pub/Sub</b> for async document ingestion and AI streaming.</li>
+        <li>Built a hybrid RAG pipeline (<b>LangGraph StateGraph + ChromaDB dense embeddings + BM25 sparse search + Reciprocal Rank Fusion</b>) eliminating LLM hallucinations.</li>
         <li>Implemented Node.js services using <b>Clean Architecture & Repository Pattern</b> with JWT auth & Zod validation; deployed via Docker Compose, Render & Vercel.</li>
       </ul>
       <p align="center">
