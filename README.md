@@ -308,7 +308,7 @@ I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, E
   </a>
   &nbsp;
   <a href="mailto:aakshatt09@gmail.com">
-    <img src="https://img.shields.io/badge/Primary_Email-lxakshatseth90-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email"/>
+    <img src="https://img.shields.io/badge/Primary_Email-aakshatt09-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email"/>
   </a>
   &nbsp;
   <a href="mailto:akshatgupta.nbnstic.comp@gmail.com">
