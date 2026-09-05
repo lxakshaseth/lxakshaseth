@@ -1,4 +1,4 @@
-<div align="center">
+F<div align="center">
 
   <!-- Animated Header Typing Banner -->
   <a href="https://git.io/typing-svg">
@@ -29,7 +29,7 @@
   <!-- Direct Contact Buttons -->
   <p align="center">
     <a href="https://linkedin.com/in/akshat0906"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:lxakshatseth90@gmail.com"><img src="https://img.shields.io/badge/Primary_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email" /></a>
+    <a href="mailto:aakshatt09@gmail.com"><img src="https://img.shields.io/badge/Primary_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email" /></a>
     <a href="mailto:akshatgupta.nbnstic.comp@gmail.com"><img src="https://img.shields.io/badge/Academic_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Academic Email" /></a>
     <a href="https://github.com/lxakshaseth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
@@ -307,7 +307,7 @@ I am a **Full Stack, Backend & AI Software Engineer** specializing in Node.js, E
     <img src="https://img.shields.io/badge/LinkedIn-akshat0906-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:lxakshatseth90@gmail.com">
+  <a href="mailto:aakshatt09@gmail.com">
     <img src="https://img.shields.io/badge/Primary_Email-lxakshatseth90-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email"/>
   </a>
   &nbsp;
