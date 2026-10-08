@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Akshat Gupta — Backend, Full Stack and Applied AI. Building the systems behind the experience." />
+<img src="assets/profile-header.svg" width="100%" alt="Akshat  — Backend, Full Stack and Applied AI. Building the systems behind the experience." />
 
 ### Software that connects the interface to the intelligence.
 
