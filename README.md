@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Akshat — Backend, Full Stack and Applied AI. Building the systems behind the experience." />
+<img src="assets/profile-header.svg" width="100%" alt="Akshat Gupta — Backend, Full Stack and Applied AI. Building the systems behind the experience." />
 
-### Backend depth. Full stack delivery. Practical AI.
+### Software that connects the interface to the intelligence.
 
 I build web applications, backend services, and practical AI workflows.<br/>
 My work spans payment flows, database optimization, and document intelligence.
 
 <p>
-  <a href="mailto:aakshatt09@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Akshat" /></a>
-  <a href="https://linkedin.com/in/akshat0906"><img src="https://img.shields.io/badge/LINKEDIN-312E81?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/lxakshaseth?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <a href="mailto:aakshatt09@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-D97750?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Akshat" /></a>
+  <a href="https://linkedin.com/in/akshat0906"><img src="https://img.shields.io/badge/LINKEDIN-526847?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/lxakshaseth?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-252B23?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
 **Pune, India · Computer Engineering @ SPPU · Graduating 2027**
@@ -51,44 +51,16 @@ I'm a Computer Engineering student who enjoys taking features from requirements 
 
 ## Selected projects
 
-Four applications. Four different engineering problems.
+A closer look at the systems I build. **Select a project to explore its code.**
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>01 / DocBrain AI</h3>
-<p><b>Turn documents into searchable knowledge.</b></p>
-<p>Document question answering with vector and keyword retrieval, rank fusion, and separate application and AI services.</p>
-<p><b>Inside:</b> ChromaDB + BM25 + LangGraph; Node.js / FastAPI communication through Redis Pub/Sub.</p>
-<p><code>Next.js</code> <code>FastAPI</code> <code>RAG</code> <code>Docker</code></p>
-<a href="https://github.com/lxakshaseth/docbrain-ai"><b>Explore the code →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>02 / SyncLeads-360</h3>
-<p><b>Connect lead data to actionable workflows.</b></p>
-<p>Multi-step AI automation for lead enrichment, scoring, and intent classification.</p>
-<p><b>Inside:</b> LangGraph workflows, Redis caching, PostgreSQL relational data, and MongoDB interaction logs.</p>
-<p><code>Next.js</code> <code>LangGraph</code> <code>PostgreSQL</code></p>
-<a href="https://github.com/lxakshaseth/SyncLeads-360"><b>Explore the code →</b></a>
-</td>
+<td width="50%" valign="top"><a href="https://github.com/lxakshaseth/docbrain-ai"><img src="assets/project-docbrain.svg" width="100%" alt="DocBrain AI — view project source code" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/lxakshaseth/SyncLeads-360"><img src="assets/project-syncleads.svg" width="100%" alt="SyncLeads-360 — view project source code" /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>03 / Smart AI LMS</h3>
-<p><b>Bring learning, feedback, and collaboration together.</b></p>
-<p>An LMS with quizzes, student analytics, OCR-assisted answer evaluation, and live communication.</p>
-<p><b>Inside:</b> 20+ REST APIs, WebRTC audio/video, Socket.IO chat, and role-based access control.</p>
-<p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>WebRTC</code></p>
-<a href="https://github.com/lxakshaseth/Smart-LMS"><b>Explore the code →</b></a>
-</td>
-<td width="50%" valign="top">
-<h3>04 / Civic AI Platform</h3>
-<p><b>Give citizen complaints a structured path.</b></p>
-<p>A civic application for complaint logging, AI-assisted classification, and resolution routing.</p>
-<p><b>Inside:</b> Normalized PostgreSQL schemas, tuned joins and indexes, and separate business and persistence layers.</p>
-<p><code>Next.js</code> <code>Express</code> <code>PostgreSQL</code></p>
-<a href="https://github.com/lxakshaseth/civic-ai-platform"><b>Explore the code →</b></a>
-</td>
+<td width="50%" valign="top"><a href="https://github.com/lxakshaseth/Smart-LMS"><img src="assets/project-lms.svg" width="100%" alt="Smart AI LMS — view project source code" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/lxakshaseth/civic-ai-platform"><img src="assets/project-civic.svg" width="100%" alt="Civic AI — view project source code" /></a></td>
 </tr>
 </table>
 
