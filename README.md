@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=220&section=header&text=AKSHAT&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20%2F%20FULL%20STACK%20%2F%20APPLIED%20AI&descSize=16&descAlignY=58" width="100%" alt="Akshat — Backend, Full Stack, and Applied AI" />
+<img src="assets/profile-header.svg" width="100%" alt="Akshat — Backend, Full Stack and Applied AI. Building the systems behind the experience." />
 
-### From an idea to an API. From an API to a working product.
+### Backend depth. Full stack delivery. Practical AI.
 
 I build web applications, backend services, and practical AI workflows.<br/>
 My work spans payment flows, database optimization, and document intelligence.
@@ -17,7 +17,7 @@ My work spans payment flows, database optimization, and document intelligence.
 
 Open to **SDE internships** and **full-time backend / full stack opportunities**.
 
-[Projects](#selected-projects) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Skills](#technical-skills) &nbsp; / &nbsp; [Contact](#lets-connect)
+[Projects](#selected-projects) &nbsp; / &nbsp; [Experience](#experience) &nbsp; / &nbsp; [Skills](#technical-skills) &nbsp; / &nbsp; [Credentials](#learning--participation) &nbsp; / &nbsp; [Contact](#lets-connect)
 
 </div>
 
@@ -26,7 +26,7 @@ Open to **SDE internships** and **full-time backend / full stack opportunities**
 <table>
   <tr>
     <td width="33%" align="center"><h3>30% lower latency</h3><p>MongoDB schema and indexing improvements at Uptoskill</p></td>
-    <td width="33%" align="center"><h3>2 internships</h3><p>Hands-on full stack development and production support</p></td>
+    <td width="33%" align="center"><h3>Payment flow shipped</h3><p>React interfaces, backend APIs, testing, and deployment at Indux</p></td>
     <td width="33%" align="center"><h3>20+ LMS APIs</h3><p>Authentication, quizzes, grading, and student analytics</p></td>
   </tr>
 </table>
@@ -49,37 +49,48 @@ I'm a Computer Engineering student who enjoys taking features from requirements 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## Experience
-
-### Indux Technology · Full Stack Developer Intern
-**February–August 2026 · Remote**
-
-**Print Pro — payment module**
-
-- Built the payment module from requirements through release, connecting React payment interfaces to Node.js/Express REST APIs.
-- Wrote automated tests for transaction states and failure scenarios before rollout.
-- Deployed and supported the payment flow on [avcc.cloud](https://avcc.cloud).
-
-**Sales & automation platform**
-
-- Integrated a retrieval-augmented generation (RAG) pipeline into conversational sales workflows.
-- Implemented per-user session isolation for the WhatsApp Business API integration to keep conversation context separate across concurrent users.
-
-### Uptoskill · Full Stack Web Development Intern
-**October 2025–April 2026 · Remote**
-
-- Built web platform features across the UI, REST APIs, and database, from requirements through deployment.
-- **Reduced API latency by 30%** by identifying query bottlenecks, revising MongoDB schemas, and adding compound indexes.
-- Debugged issues across the application stack, added automated validation, and provided post-deployment support.
-
 ## Selected projects
 
-| Explore | What it does | Engineering focus |
-| :--- | :--- | :--- |
-| **[DocBrain AI](https://github.com/lxakshaseth/docbrain-ai)** | Questions and answers over documents | Hybrid retrieval & service communication |
-| **[SyncLeads-360](https://github.com/lxakshaseth/SyncLeads-360)** | Lead enrichment and sales automation | Multi-step AI workflows & data modeling |
-| **[Smart AI LMS](https://github.com/lxakshaseth/Smart-LMS)** | Learning, grading, and live collaboration | REST APIs, OCR & WebRTC |
-| **[Civic AI Platform](https://github.com/lxakshaseth/civic-ai-platform)** | Citizen complaint classification and routing | SQL optimization & application architecture |
+Four applications. Four different engineering problems.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / DocBrain AI</h3>
+<p><b>Turn documents into searchable knowledge.</b></p>
+<p>Document question answering with vector and keyword retrieval, rank fusion, and separate application and AI services.</p>
+<p><b>Inside:</b> ChromaDB + BM25 + LangGraph; Node.js / FastAPI communication through Redis Pub/Sub.</p>
+<p><code>Next.js</code> <code>FastAPI</code> <code>RAG</code> <code>Docker</code></p>
+<a href="https://github.com/lxakshaseth/docbrain-ai"><b>Explore the code →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>02 / SyncLeads-360</h3>
+<p><b>Connect lead data to actionable workflows.</b></p>
+<p>Multi-step AI automation for lead enrichment, scoring, and intent classification.</p>
+<p><b>Inside:</b> LangGraph workflows, Redis caching, PostgreSQL relational data, and MongoDB interaction logs.</p>
+<p><code>Next.js</code> <code>LangGraph</code> <code>PostgreSQL</code></p>
+<a href="https://github.com/lxakshaseth/SyncLeads-360"><b>Explore the code →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / Smart AI LMS</h3>
+<p><b>Bring learning, feedback, and collaboration together.</b></p>
+<p>An LMS with quizzes, student analytics, OCR-assisted answer evaluation, and live communication.</p>
+<p><b>Inside:</b> 20+ REST APIs, WebRTC audio/video, Socket.IO chat, and role-based access control.</p>
+<p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>WebRTC</code></p>
+<a href="https://github.com/lxakshaseth/Smart-LMS"><b>Explore the code →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Civic AI Platform</h3>
+<p><b>Give citizen complaints a structured path.</b></p>
+<p>A civic application for complaint logging, AI-assisted classification, and resolution routing.</p>
+<p><b>Inside:</b> Normalized PostgreSQL schemas, tuned joins and indexes, and separate business and persistence layers.</p>
+<p><code>Next.js</code> <code>Express</code> <code>PostgreSQL</code></p>
+<a href="https://github.com/lxakshaseth/civic-ai-platform"><b>Explore the code →</b></a>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>Explore the implementation details</b></summary>
@@ -130,6 +141,29 @@ Built a civic engagement application for logging, classifying, and routing citiz
 
 </details>
 
+## Experience
+
+### Indux Technology · Full Stack Developer Intern
+**February–August 2026 · Remote**
+
+**Print Pro — payment module**
+
+- Built the payment module from requirements through release, connecting React payment interfaces to Node.js/Express REST APIs.
+- Wrote automated tests for transaction states and failure scenarios before rollout.
+- Deployed and supported the payment flow on [avcc.cloud](https://avcc.cloud).
+
+**Sales & automation platform**
+
+- Integrated a retrieval-augmented generation (RAG) pipeline into conversational sales workflows.
+- Implemented per-user session isolation for the WhatsApp Business API integration to keep conversation context separate across concurrent users.
+
+### Uptoskill · Full Stack Web Development Intern
+**October 2025–April 2026 · Remote**
+
+- Built web platform features across the UI, REST APIs, and database, from requirements through deployment.
+- **Reduced API latency by 30%** by identifying query bottlenecks, revising MongoDB schemas, and adding compound indexes.
+- Debugged issues across the application stack, added automated validation, and provided post-deployment support.
+
 ## Technical skills
 
 | Area | Technologies & practices |
@@ -152,6 +186,28 @@ Expected graduation: **2027** · CGPA: **8.25 / 10**
 - **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — July 2025
 - **AWS training:** Cloud Practitioner Essentials, Technical Essentials, Security Fundamentals, DevOps, and Generative AI.
 
+## Learning & participation
+
+| Program / event | Recognition | Date | Supporting document |
+| :--- | :--- | :--- | :--- |
+| **Podar Startupthon 2K26** | Participation · Grand Finale, Nawalgarh, Rajasthan | 2 Oct 2026 | [Certificate](assets/certificates/podar-startupthon-2026.pdf) |
+| **Podar Hackfest** | Participation · certificate issued by UptoSkills / Podar | Issued 7 May 2026 | [Certificate](assets/certificates/podar-hackfest-2026.pdf) |
+| **Skills4Future** · Edunet Foundation, AICTE & Shell | Completed advanced course in Green Skills and Artificial Intelligence | Jan–Feb 2026 | [Certificate](assets/certificates/skills4future-ai.png) |
+| **Barclays Life Skills Training** · GTT Foundation | Completed life skills training program supported by Barclays | 9 Mar 2026 | [Certificate](assets/certificates/barclays-life-skills.png) |
+
+<details>
+<summary><b>Additional internship offers</b></summary>
+
+The following documents record internship offers and their scheduled dates.
+
+| Organization | Offered role | Scheduled period | Document |
+| :--- | :--- | :--- | :--- |
+| ApexPlanet Software Pvt Ltd | Data Analytics Intern | 21 Jan–21 Mar 2026 | [Offer letter](assets/certificates/apexplanet-data-analytics-offer.png) |
+| ApexPlanet Software Pvt Ltd | Web Development Intern · HTML, CSS & JavaScript | 11 Oct–24 Nov 2025 | [Offer letter](assets/certificates/apexplanet-web-development-offer.png) |
+| Axuore Technologies | Frontend Development Intern · online | Starting 20 Jan 2025 · one month | [Offer letter](assets/certificates/axuore-frontend-offer.png) |
+
+</details>
+
 ## Let's connect
 
 I'm interested in teams where I can contribute to backend services, full stack products, and practical AI features. Happy to discuss my implementation choices, project architecture, and internship work.
@@ -162,5 +218,4 @@ I'm interested in teams where I can contribute to backend services, full stack p
   <br/>
   <b>Let's build something useful.</b>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=90&section=footer" width="100%" alt="" />
 </div>
